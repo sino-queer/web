@@ -1,7 +1,7 @@
 ---
 title: "11月·自由写作工作坊"
-event_start: 2025-11-14T14:57:48+02:00         
-event_end: 2025-11-14T17:57:48+02:00
+date: 2025-11-14T14:57:48+02:00         
+end: 2025-11-14T17:57:48+02:00
 banner: "images/banner.png"     
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "10月·攀岩活动"
-event_start: 2025-10-12T14:00:00+02:00
-event_end:   2025-10-12T16:00:00+02:00
+date: 2025-10-12T14:00:00+02:00
+end:   2025-10-12T16:00:00+02:00
 banner: "images/banner.png"
 draft: false
 ---
