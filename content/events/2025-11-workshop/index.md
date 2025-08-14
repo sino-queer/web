@@ -1,10 +1,9 @@
 ---
 title: "11月·自由写作工作坊"
-date: 2025-08-14T02:57:48+02:00           # 开始时间
-end: 2025-08-14T02:57:48+02:00            # 可改为结束时间
-location: ""
-banner: "/images/placeholder.jpg"   # 卡片封面图
-draft: true
+event_start: 2025-11-14T14:57:48+02:00         
+event_end: 2025-11-14T17:57:48+02:00
+banner: "images/banner.png"     
+draft: false
 ---
 自由写作工作坊：编织自己的故事吧！Free Writing Workshop
 ![图片](/events/2025-11-workshop/image.png)

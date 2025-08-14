@@ -1,13 +1,13 @@
 ---
 title: "10月·攀岩活动"
-date: 2025-10-12T14:00:00+02:00
-end: 2025-10-12T16:00:00+02:00
-location: "Stockholm"
-banner: "/images/kickoff.jpg"
+event_start: 2025-10-12T14:00:00+02:00
+event_end:   2025-10-12T16:00:00+02:00
+banner: "images/banner.png"
 draft: false
 ---
+---
 岩壁爬梯，let's dance on the wall！
-![图片](/events/2025-10-climbing/image.png)
+![图片](/events/2025-10-climbing/climbing.png)
 <!--more-->
 ✨ 加入我们4月26日的室内攀岩体验活动，一起在岩壁上跳舞吧！
 
