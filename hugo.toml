@@ -1,5 +1,7 @@
 buildFuture = true
-baseURL = "https://sinoqueerse.org/"
+baseURL = "https://sino-queer.github.io/web/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "zh-cn"
 title = "北方酷儿 Sino-Queer Sweden"
 theme = "ananke"
