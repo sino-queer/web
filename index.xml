@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on 北方酷儿 Sino-Queer Sweden</title><link>https://sino-queer.github.io/web/</link><description>Recent content in Welcome on 北方酷儿 Sino-Queer Sweden</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://sino-queer.github.io/web/index.xml" rel="self" type="application/rss+xml"/><item><title>10月·攀岩活动</title><link>https://sino-queer.github.io/web/events/2025-10-climbing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sino-queer.github.io/web/events/2025-10-climbing/</guid><description>&lt;hr>
-&lt;p>岩壁爬梯，let&amp;rsquo;s dance on the wall！
-&lt;img src="https://sino-queer.github.io/web/events/2025-10-climbing/climbing.png" alt="图片">&lt;/p></description></item><item><title>11月·自由写作工作坊</title><link>https://sino-queer.github.io/web/events/2025-11-workshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sino-queer.github.io/web/events/2025-11-workshop/</guid><description>&lt;p>自由写作工作坊：编织自己的故事吧！Free Writing Workshop
-&lt;img src="https://sino-queer.github.io/web/events/2025-11-workshop/image.png" alt="图片">&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on 北方酷儿 Sino-Queer Sweden</title>
+    <link>https://sino-queer.github.io/web/</link>
+    <description>Recent content in Welcome on 北方酷儿 Sino-Queer Sweden</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Nov 2025 14:57:48 +0200</lastBuildDate>
+    <atom:link href="https://sino-queer.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11月·自由写作工作坊</title>
+      <link>https://sino-queer.github.io/web/events/2025-11-workshop/</link>
+      <pubDate>Fri, 14 Nov 2025 14:57:48 +0200</pubDate>
+      <guid>https://sino-queer.github.io/web/events/2025-11-workshop/</guid>
+      <description>&lt;p&gt;自由写作工作坊：编织自己的故事吧！Free Writing Workshop&#xA;&lt;img src=&#34;https://sino-queer.github.io/web/events/2025-11-workshop/image.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10月·攀岩活动</title>
+      <link>https://sino-queer.github.io/web/events/2025-10-climbing/</link>
+      <pubDate>Sun, 12 Oct 2025 14:00:00 +0200</pubDate>
+      <guid>https://sino-queer.github.io/web/events/2025-10-climbing/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;岩壁爬梯，let&amp;rsquo;s dance on the wall！&#xA;&lt;img src=&#34;https://sino-queer.github.io/web/events/2025-10-climbing/climbing.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
