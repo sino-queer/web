@@ -1,0 +1,20 @@
+/* 暂时放一条明显规则，便于确认是否加载成功 */
+body { background:#ffeeee; } /* 生效后可删除 */
+
+/* 你的品牌色 */
+:root { --primary:#9370DB; --accent:#FFD580; }
+
+a { color: var(--primary); }
+a:hover { color:#7d61c3; }
+
+.btn-primary{
+  display:inline-block;padding:.6rem 1rem;background:#9370DB;color:#fff;
+  border-radius:.3rem;text-decoration:none
+}
+.btn-primary:hover{ background:#7d61c3 }
+
+footer a{ color:#FFD580 } 
+footer a:hover{ color:#e8c06b }
+
+h1 a,h2 a{ color:inherit; border-bottom:.15rem solid #FFD580 }
+h1 a:hover,h2 a:hover{ color:#9370DB }
